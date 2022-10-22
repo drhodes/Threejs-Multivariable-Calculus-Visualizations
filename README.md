@@ -10,7 +10,7 @@ The `mitxThreeJsHelper.js` file does the "heavy lifting," in that it provides th
 
 # Showcase
 
-To see the visualizations, use Github Pages via [this link](https://dlevear.github.io/Threejs-Multivariable-Calculus-Visualizations/githubPages.html).
+To see the visualizations, use Github Pages via [this link](https://drhodes.github.io/Threejs-Multivariable-Calculus-Visualizations/githubPages.html).
 
 # License
 
